@@ -1,0 +1,8 @@
+venv/
+.env
+*.db
+__pycache__/
+*.txt
+*.csv
+data/input/*
+!data/input/.gitkeep
